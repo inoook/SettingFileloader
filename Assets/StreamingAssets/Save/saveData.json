@@ -1,0 +1,7 @@
+{
+    "sampleInt":1,
+    "sampleStr":"sample",
+    "sampleArray":[
+        1,2,3
+    ]
+}

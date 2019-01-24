@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32dbb9a9ab6644091a5fb940a3082dc4, type: 3}
+  m_Name: csvData
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1
+    label0: aaa
+    label1: "\"\u3042\u3042\u3042\u3044\u3044\u3044\n\u3046\u3046\u3046\n\u3048\u3048\""
+    label2: "\u304A\u304A\u304A"
+  - id: 2
+    label0: bbb
+    label1: '"123,456"'
+    label2: '"""aaa,bbb"""'
+  - id: 3
+    label0: ccc
+    label1: '"""111,222"'
+    label2: '"""ccc,ddd"""'
